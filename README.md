@@ -12,7 +12,7 @@ Educational Context: Electric Scooter Sprint was conceptualized and designed as 
 Exploration of Game Design: Through this project, it was explored fundamental game design elements, including rules, objectives, and visual representation, to bring forth an engaging gameplay experience.
 Blender Application: Leveraging Blender, initial sketches was translated into detailed representations, emphasizing the integration of design tools within the academic framework.
 
-Please note that Electric Scooter Sprint: Dublin Dash is a design concept created within an academic framework, focusing on the conceptualization and visualization of a potential game idea as part of a college project.
+Please note that Electric Scooter Sprint is a design concept created within an academic framework, focusing on the conceptualization and visualization of a potential game idea as part of a college project.
 
 ![Levelmap2](https://github.com/kamilapereira/Level-Design/assets/113510216/ff10f888-5b15-4f35-a018-e852df5dcc71)
 
