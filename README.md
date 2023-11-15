@@ -14,6 +14,5 @@ Blender Application: Leveraging Blender, initial sketches was translated into de
 
 Please note that Electric Scooter Sprint: Dublin Dash is a design concept created within an academic framework, focusing on the conceptualization and visualization of a potential game idea as part of a college project.
 
-
-https://github.com/kamilapereira/Level-Design/assets/113510216/6e747c76-c642-47cf-946c-4a368747f139
+https://github.com/kamilapereira/Level-Design/assets/113510216/cedb6f07-79cd-4952-9405-e86422209f43
 
